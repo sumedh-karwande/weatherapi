@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weatherapi/static/css/main.9ea0756e.chunk.css",
+    "main.js": "/weatherapi/static/js/main.cc495bd0.chunk.js",
+    "main.js.map": "/weatherapi/static/js/main.cc495bd0.chunk.js.map",
+    "runtime-main.js": "/weatherapi/static/js/runtime-main.9988fd68.js",
+    "runtime-main.js.map": "/weatherapi/static/js/runtime-main.9988fd68.js.map",
+    "static/js/2.678504aa.chunk.js": "/weatherapi/static/js/2.678504aa.chunk.js",
+    "static/js/2.678504aa.chunk.js.map": "/weatherapi/static/js/2.678504aa.chunk.js.map",
+    "static/js/3.7bf95686.chunk.js": "/weatherapi/static/js/3.7bf95686.chunk.js",
+    "static/js/3.7bf95686.chunk.js.map": "/weatherapi/static/js/3.7bf95686.chunk.js.map",
+    "index.html": "/weatherapi/index.html",
+    "static/css/main.9ea0756e.chunk.css.map": "/weatherapi/static/css/main.9ea0756e.chunk.css.map",
+    "static/js/2.678504aa.chunk.js.LICENSE.txt": "/weatherapi/static/js/2.678504aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9988fd68.js",
+    "static/js/2.678504aa.chunk.js",
+    "static/css/main.9ea0756e.chunk.css",
+    "static/js/main.cc495bd0.chunk.js"
+  ]
+}
